@@ -1,0 +1,9 @@
+@font-face {
+    font-family: font001;
+    src: url("./fonts/font001.ttf")
+}
+
+h1{
+    font-family: font001;
+    text-align: center;
+}
