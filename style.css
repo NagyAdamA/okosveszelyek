@@ -1,6 +1,6 @@
 @font-face {
     font-family: font001;
-    src: url("./fonts/font001.ttf")
+    src: url("./src/fonts/font001.ttf")
 }
 
 h1{
@@ -9,5 +9,5 @@ h1{
 }
 
 body {
-    background-color: #a39e93;
+    background-color: #e5e5e5;
 }
