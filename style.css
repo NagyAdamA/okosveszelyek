@@ -9,5 +9,17 @@ header{
 
 
 body {
-    background-color: #e5e5e5;}
 
+    background-color: #e5e5e5;
+}
+
+.blokksarga {
+    background: #fca311;
+    padding: 20px;
+}
+
+.blokkkek {
+    background: #14213d;
+    color: #e5e5e5;
+    padding: 20px;
+}
