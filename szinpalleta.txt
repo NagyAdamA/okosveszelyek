@@ -3,3 +3,4 @@
 #fca311 - narancs
 #e5e5e5 - szürke
 #ffffff - fehér
+#ff3b3b - piros

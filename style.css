@@ -16,6 +16,11 @@ body {
     padding: 20px;
 }
 
+.blokkpiros {
+    background: #ff3b3b;
+    padding: 20px;
+}
+
 .blokkkek {
     background: #14213d;
     color: #e5e5e5;
@@ -25,4 +30,12 @@ body {
 .fiz_img {
     max-width: 100%;
     height: auto;
+}
+
+.vis_img {
+    width: 100%;
+    height: auto;
+}
+.vis_td {
+    width: 30%;
 }
