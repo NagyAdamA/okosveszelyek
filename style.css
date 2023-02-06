@@ -22,13 +22,12 @@ body {
 }
 
 .blokkkek {
-    background: #14213d;
-    color: #e5e5e5;
+    background: #ffbf58;
     padding: 20px;
 }
 
 .fiz_img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
 
