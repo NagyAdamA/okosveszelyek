@@ -13,11 +13,13 @@ body {
 
 .blokksarga {
     background: #fca311;
+    color: #000000;
     padding: 20px;
 }
 
 .blokkpiros {
     background: #ff3b3b;
+    color: #000000;
     padding: 20px;
 }
 
@@ -26,18 +28,13 @@ body {
     color: #e5e5e5;
     padding: 20px;
 }
-.blokknarancs{
-    background: #ff9d00;
-    color: #000000;
-    padding: 20px;
-}
 .blokkturkiz{
     background: #52a397 ;
     color: #000000;
     padding: 20px;
 }
 .blokksotturkiz{
-    background: #125248dc;
+    background: #0a3a33dc;
     color: #e5e5e5;
     padding: 20px;
 }
