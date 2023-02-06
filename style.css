@@ -42,7 +42,11 @@ body {
     color: #e5e5e5;
     padding: 20px;
 }
-
+.blokkbordo{
+    background-color: #4d000a;
+    color: #e5e5e5;
+    padding: 20px;
+}
 .fiz_img {
     width: 100%;
     height: auto;
