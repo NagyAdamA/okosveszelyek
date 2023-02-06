@@ -25,6 +25,28 @@ body {
     background: #ffbf58;
     padding: 20px;
 }
+.blokknarancs{
+    background: #ff9d00;
+    color: #000000;
+    padding: 20px;
+}
+.blokkturkiz{
+    background: #52a397 ;
+    color: #000000;
+    padding: 20px;
+}
+.blokksotturkiz{
+    background: #175f54;
+    color: #e5e5e5;
+    padding: 20px;
+}
+
+
+.blokkbordo {
+    background: #4d000a;
+    color: #e5e5e5;
+    padding: 20px;
+}
 
 .fiz_img {
     width: 100%;
