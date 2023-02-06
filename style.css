@@ -27,6 +27,12 @@ body {
     padding: 20px;
 }
 
+.blokkbordo {
+    background: #4d000a;
+    color: #e5e5e5;
+    padding: 20px;
+}
+
 .fiz_img {
     max-width: 100%;
     height: auto;
