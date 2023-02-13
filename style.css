@@ -18,7 +18,7 @@ body {
 }
 
 .blokkpiros {
-    background: #ff3b3b;
+    background: rgba(255, 59, 59,0.5);
     color: #000000;
     padding: 20px;
 }
@@ -113,12 +113,6 @@ body {
 
 @media screen and (max-width:992px){
     .vis_td {
-        width: 0px;
-    }
-}
-
-@media screen and (max-width:992px){
-    .fiz_td {
         width: 0px;
     }
 }
