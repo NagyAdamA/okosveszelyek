@@ -107,3 +107,15 @@ body {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
+
+@media screen and (max-width:992px){
+    .vis_td {
+        width: 0px;
+    }
+}
+
+@media screen and (max-width:992px){
+    .fiz_td {
+        width: 0px;
+    }
+}
