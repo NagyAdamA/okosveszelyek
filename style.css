@@ -37,11 +37,14 @@ body {
     background: #52a397 ;
     color: #000000;
     padding: 20px;
+    text-align: justify;
+    
 }
 .blokksotturkiz{
     background: #0a3a33dc;
     color: #e5e5e5;
     padding: 20px;
+    text-align: justify;
 }
 .blokkvilagoskek{
     background-color: #4287f5;
@@ -54,11 +57,12 @@ body {
     padding: 20px;
 }
 .fiz_img {
-    width: 400px;
+    width: 100%;
     height: auto;
 }
 .fiz_td{
-    width: 30%;
+    width: 40%;
+    
 }
 
 .vis_img {
@@ -120,5 +124,6 @@ body {
 @media screen and (max-width:992px){
     .fiz_td {
         width: 0px;
+        padding: 0px !important;
     }
 }
