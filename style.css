@@ -18,7 +18,7 @@ body {
 }
 
 .blokkpiros {
-    background: #ff3b3b;
+    background: rgba(255, 59, 59,0.5);
     color: #000000;
     padding: 20px;
 }
@@ -46,6 +46,10 @@ body {
     padding: 20px;
     text-align: justify;
 }
+
+.szovegkit {
+    text-align: justify;
+}
 .blokkvilagoskek{
     background-color: #4287f5;
     color: #e5e5e5;
@@ -59,6 +63,7 @@ body {
 .fiz_img {
     width: 100%;
     height: auto;
+    text-align: center;
 }
 .fiz_td{
     width: 40%;
@@ -107,7 +112,6 @@ body {
     white-space: nowrap; 
     color: white;
     font-size: 20px;
-    position: absolute;
     overflow: hidden;
     top: 50%;
     left: 50%;
@@ -122,7 +126,7 @@ body {
 }
 
 @media screen and (max-width:992px){
-    .fiz_td {
+    .keptorles {
         width: 0px;
         padding: 0px !important;
     }
