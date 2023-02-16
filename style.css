@@ -43,6 +43,10 @@ body {
     color: #e5e5e5;
     padding: 20px;
 }
+
+.szovegkit {
+    text-align: justify;
+}
 .blokkvilagoskek{
     background-color: #4287f5;
     color: #e5e5e5;
@@ -56,6 +60,7 @@ body {
 .fiz_img {
     width: 400px;
     height: auto;
+    text-align: center;
 }
 .fiz_td{
     width: 30%;
@@ -113,6 +118,12 @@ body {
 
 @media screen and (max-width:992px){
     .vis_td {
+        width: 0px;
+    }
+}
+
+@media screen and (max-width:992px){
+    .keptorles {
         width: 0px;
     }
 }
