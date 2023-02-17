@@ -1,9 +1,9 @@
 header{
     background-image: url("img/smart-home-guide-header.webp");
     height: 300px;
-    background-size: cover; 
-    color: #e5e5e5; 
-    
+    background-size: cover;
+    color: #e5e5e5;
+
 }
 
 body {
@@ -38,7 +38,7 @@ body {
     color: #000000;
     padding: 20px;
     text-align: justify;
-    
+
 }
 .blokksotturkiz{
     background: #0a3a33dc;
@@ -67,7 +67,7 @@ body {
 }
 .fiz_td{
     width: 40%;
-    
+
 }
 
 .vis_img {
@@ -82,14 +82,14 @@ body {
     position: relative;
     width: 50%;
 }
-  
+
 .image {
     display: block;
     width: 100%;
     height: auto;
     border-radius: 25px;
 }
-  
+
 .overlay {
     position: absolute;
     bottom: 100%;
@@ -102,15 +102,15 @@ body {
     transition: .5s ease;
     border-radius: 25px;
 }
-  
+
 .kartya:hover .overlay {
     bottom: 0;
     height: 100%;
 }
-  
+
 .text {
     position: absolute;
-    white-space: nowrap; 
+    white-space: nowrap;
     color: white;
     font-size: 20px;
     overflow: hidden;
@@ -122,6 +122,11 @@ body {
 .kicsiiras{
     font-size: 20px;
 }
+
+.vicc {
+  color: #f8f9fa;
+}
+
 @media screen and (max-width:992px){
     .vis_td {
         width: 0px;
