@@ -60,9 +60,28 @@ body {
     color: #e5e5e5;
     padding: 20px;
 }
+.blokkforvilvilkek{
+    background-color: #8ca0c9;
+    color: #e5e5e5;
+    padding: 20px;
+}
 
 
-
+.blokkforvilkek{
+    background-color: #536585;
+    color: #e5e5e5;
+    padding: 20px;
+}
+.blokkforsotkek{
+    background-color: #003559;
+    color: #e5e5e5;
+    padding: 20px;
+}
+.blokkforsotsotkek{
+    background-color: #001e31;
+    color: #e5e5e5;
+    padding: 20px;
+}
 
 .fiz_img {
     width: 100%;
@@ -156,7 +175,7 @@ body {
   }
   
   ::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 5px rgb(120, 120, 120);
+    box-shadow: inset 0 0 10px rgb(120, 120, 120);
     border-radius: 10px;
   }
   
