@@ -16,6 +16,11 @@ body {
     color: #000000;
     padding: 20px;
 }
+.blokknarancs    {
+    background: #cc8118;
+    color: #000000;
+    padding: 20px;
+}
 
 .blokkpiros {
     background: rgba(255, 59, 59,0.5);
@@ -30,7 +35,7 @@ body {
 }
 
 .blokkvilagossarga {
-    background: #ffbf58;
+    background: #e4ad54;
     padding: 20px;
 }
 .blokkturkiz{
